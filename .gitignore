@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+models/*.joblib
+data/disease_risk.csv
+reports/*.png
